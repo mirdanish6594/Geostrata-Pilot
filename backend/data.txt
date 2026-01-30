@@ -1,0 +1,324 @@
+Title: GEOMAGA: The National Security Edition
+URL: https://www.thegeostrata.com/post/geomaga-national-security-edition
+Date: Dec 1, 2025
+Author: Team Geostrata
+Source: The Geostrata
+Content:
+Greetings, everyone. We are happy to launch the 2025 edition of the Geomaga. In a way the year 2025 has been a year of national security. From Operation Sindoor against Pakistan to strikes on Myanmar and from technological advancements in the defence sector to the renewed focus on self-reliance, these are the broad spectrum of issues that have dominated the popular intellectual discourse throughout the year.
+
+In this edition of the Geomaga, we have included 10 chapters starting with the analysis of Operation Sindoor and its implications on the national security paradigm of India. Technology has become an inalienable part of warfare and has fundamentally changed how wars are fought. The second chapter will examine the role of disruptive military technologies and Atmanirbhar Bharat.
+
+On the maritime front, there exist many opportunities and challenges, which will be examined in the third and fifth chapters that talk about the Indo-Pacific Strategy and Securing India’s Maritime Borders, along with analysing the Future of India’s Naval Power. Whether it is the Russia-Ukraine War, the Israel-Gaza conflict or Pakistan's retaliatory attack against India during Operation Sindoor, drones played a pivotal role in either establishing or challenging existing air superiority against the adversary. The fifth chapter examines drone warfare from the perspective of the Indian Armed Forces.
+
+While the sixth chapter focuses on the DRDO and the Atmanirbhar Bharat Initiative, the seventh one will highlight the importance of securing India’s critical infrastructure and its criticality in strengthening the country's civil-military synergy.
+
+The eighth and ninth chapters will analyse and give recommendations to strengthen India's aerospace power, first through the perspective of space warfare and finally through charting out the transformation of the Indian Air Force. The final chapter will discuss military diplomacy, especially from the point of view of defence attachés.
+
+--------------------------------------------------
+
+Title: ISRO: From National Pride to Global Commercial Giant
+URL: https://www.thegeostrata.com/post/isro-s-strategic-ascent-competitive-positioning-in-the-global-heavy-launch-market
+Date: January 2026
+Author: Sai Prashanth, Team Geostrata
+Source: The Geostrata
+Content:
+The Indian Space Research Organisation (ISRO) has swiftly broken into the global hierarchy of space launch providers, proving itself as a formidable competitor in the heavy launch vehicle market. While SpaceX is widely recognised for its reusable technology and the European Space Agency known for its cemented historical prestige, ISRO has established itself as a “reliable cost-efficient leader” for medium-to-heavy-lift missions.
+
+By combining competitive and effective pricing, and a strong record for reliability, ISRO is challenging the already established hierarchy of the global space market which is projected to grow from $9.4 billion in 2025 to $36.7 billion by 2035. With India’s strategic target of securing 8-10% of the global launch market by 2033, ISRO is transforming itself from a central agency of a rapidly developing nation to a central pillar of the international space economy.
+
+COMMERCIAL BREAKTHROUGHS AND THE DOMINANCE OF LVM3
+ISRO’s presence in the heavyweight launch sector is anchored by the Launch Vehicle Mark-3 (LVM3). The vehicle has evolved from a symbol of national capability to a significant instrument for commercial revenue generation. As of 2025, the LVM3 has a successful mission rate of 100% in nine consecutive deployments, affixing its position as one of the most dependable launch vehicles worldwide. This credibility was recently demonstrated by the deployment of the AST SpaceMobile BlueBird Block-2 satellite in December 2025.
+
+The payload weighed 6,100 kg, which was the heaviest to have ever been launched from Indian territory, also represented the first dedicated commercial mission for a Western customer. The commercial viability of the LVM3 was further affixed via two major contracts with OneWeb, a British based broadband constellation provider. The deals, valued at approximately $240 million, involve launching 72 satellites across two missions. These missions also have crucial geopolitical importance, as they replace the Russian Soyuz rockets that have been facing international isolation due to the war in Ukraine.
+
+THE ECONOMICS OF COMPETITION: ISRO VS. SPACEX AND EUROPE
+The LVM3 is priced at approximately $48-54 million per launch, undercutting SpaceX’s Falcon 9 at around $67 million and Europe’s Ariane 6, which ranges from $80-120 million. This price structure offers a distinct value for payloads that are within the 4,000-10,000 kg range.
+Considering cost per kilogram, the Falcon 9’s reusable architecture drives cost down to roughly $2,720 per kg to Low Earth Orbit, whereas the LVM3 is estimated to be between $5,000-$6,000 per kg. Yet, ISRO remains superior to the Ariane 6, which costs exceeding $9,000 per kg. Furthermore, the LVM3 possesses a critical advantage over Ariane 6: operational maturity.
+
+SUSTAINABLE GROWTH THROUGH PRIVATISATION
+The reorganisation of ISRO includes the commercial transfer of the Small Satellite Launch Vehicle (SSLV) to Hindustan Aeronautics Limited (HAL). The contract worth $61 million represents the first time the entire launch endeavour has been sold for operations to an industrial partner. This enables HAL to produce rockets with revenue capability of around $6.5 million per mission.
+NewSpace India Limited (NSIL), ISRO’s commercial subsidiary, reported 43% revenue growth in the 2025 fiscal year.
+
+STRATEGIC FUTURE: THE NGLV
+ISRO seeks to address the technological gap with SpaceX by developing the Next Generation Launch Vehicle (NGLV). Scheduled for operation by 2035, the NGLV is designed to deliver 30 tonnes of payload to Low Earth Orbit, tripling the capacity of the current LVM3, and will incorporate a reusable first stage.
+In the interim, ISRO benefits from a "geopolitical trust premium." As a non-aligned nation with a transparent civilian space program, India provides a neutral option for governments concerned about US regulatory constraints or Chinese technological espionage.
+
+--------------------------------------------------
+
+Title: Governing In Permanent Emergency: Why Crisis Has Become The New Normal
+URL: https://www.thegeostrata.com/post/governing-in-permanent-emergency-why-crisis-has-become-the-new-normal
+Date: January 2026
+Author: Muskan Gupta, Team Geostrata
+Source: The Geostrata
+Content:
+The international system was built on the implicit assumption of normalcy for many years. Stable times were thought to be the default state of world affairs. That presumption is no longer valid today. Instead of going from crisis to recovery, the modern world is going through an ongoing cycle of disruption. Pandemics, wars, climate shocks, economic instability, and technological upheaval now coexist. Instability is now structural rather than transient.
+
+TRANSITIONING FROM A PERMANENT EMERGENCY TO AN EXCEPTIONAL CRISIS
+A turning point was the COVID-19 pandemic. Importantly, the pre-crisis equilibrium was not restored after the pandemic ended. Rather, significant geopolitical shocks followed almost immediately, including Russia's invasion of Ukraine and conflicts in West Asia. Governance structures created to deal with isolated shocks are now under constant strain.
+
+HOW GOVERNANCE HAS CHANGED
+Short-term crisis management has increasingly eclipsed long-term planning. Governments are more concerned with maintaining continuity when shocks happen. Emergency laws are often extended or normalised. Decision-making has become more centralised. Political legitimacy is now defined by the capacity to act swiftly and avert systemic collapse rather than economic growth or welfare expansion.
+
+SECURITY FIRST: THE NATIONAL SECURITY STATE'S GROWTH
+The scope of national security has increased. Domains previously considered civilian (public health, energy, supply chains) are now seen from a security perspective. Technology (AI, Semiconductors) is classified as an essential element of State Power.
+This leads to more Governmental intervention within markets via Export Controls and Industrial Policies. Although this strategy increases short-term resilience, it runs the risk of strengthening centralisation and eroding institutional transparency.
+
+HANDLING CONFLICT INSTEAD OF RESOLVING IT
+Permanent disruption in geopolitics has led to managed rather than resolved wars. Conflicts are frozen or contained to prevent escalation rather than solved amicably.
+Climate change ensures this period of disruption will continue. Climate stress is a permanent condition of governance for many states, especially in the Global South.
+
+RESILIENCE AS THE INDICATOR OF POWER
+Resilience has triumphed over military superiority as the principal measure of sovereignty. Countries that exhibit the ability to absorb uncertain occurrences have a competitive advantage. The judgment of governments will be based on their capacity to manage crises rather than create long-term developmental outcomes.
+
+--------------------------------------------------
+
+Title: Rewriting India’s Labour Landscape: A Structural Reset
+URL: https://www.thegeostrata.com/post/rewriting-india-s-labour-landscape-a-structural-reset-of-work-wages-and-worker-rights
+Date: January 2026
+Author: Ameya Gupta, Team Geostrata
+Source: The Geostrata
+Content:
+The structure of labour laws in India for the past seven decades was filled with bureaucracy and complex rules. This reality was embraced by the Government when Union Minister Mansukh Mandaviya introduced four new bills replacing 29 archaic laws.
+
+PROBLEMS WITH PREVIOUS LEGISLATION
+1. Extreme Fragmentation: Laws like the Payment of Wages Act and Minimum Wages Act overlapped, creating barriers to business registration.
+2. Prevention of Expansion: The fear of labour laws discouraged employers from expanding. Many companies refused to register formally to avoid the legislative net.
+3. Large-scale Informalisation: A large majority of India’s population works in micro-industries outside legislative coverage.
+4. Bureaucratic Issues: Lack of provisions for registering labour databases and lack of uniformity in implementation.
+
+THE FOUR NEW CODES
+1. The Code on Wages (2019): Integrates Payment of Wages, Minimum Wages, Bonus, and Equal Remuneration Acts. It defines wages clearly (pay + allowances), fixes a minimum wage floor, and ensures deductions cannot exceed 50% of the wage.
+2. Industrial Relations Code (2020): Integrates Trade Unions and Industrial Disputes Acts. It requires a 14-day strike notice. Laws related to layoffs now apply only to companies with more than 300 workers (up from 100), allowing room for expansion.
+3. Code on Social Security (2020): Encompasses nine acts. It defines and covers gig workers and platform workers for the first time, making digital platforms accountable for their welfare. It creates National and State Social Security Boards for unorganised workers.
+4. Occupational Safety, Health, and Working Conditions Code: Rationalises 13 laws. Aims to digitalise compliance, fix working hours (8 per day, 48 per week), and allow women to work night shifts in mines/professions previously restricted.
+
+MACROECONOMIC BENEFITS
+This reset can benefit the ease of doing business, bridge the gap between large and micro companies (fostering medium-scale industries), and improve workforce quality through reskilling. It aims to promote formalisation, productivity, and inclusive growth for a Viksit Bharat.
+
+--------------------------------------------------
+
+Title: About The Geostrata
+URL: https://www.thegeostrata.com/aboutus
+Source: The Geostrata
+Content:
+The Geostrata is a vibrant, independent policy and research think tank, serving as a hub of youth-led intellectual discourse that resonates from India to the globe. We stand for a distinctly Indian take on world affairs.
+We cover domestic and international policies, strategic affairs, high-tech, cyber studies, public affairs, sustainability, and ESG issues.
+
+TEAM & INITIATIVES
+We have a dynamic, 200-strong team including individuals from premier institutions (DU, IIMs, IITs, NLUs).
+We are the Secretariat Partner of the Women 20 (W20 under G20) Indian Presidency.
+We are spearheading the BRICS Youth Energy Summit in South Africa.
+We collaborate with Mercedes Benz's beVisioneers fellowship on the 'SuryaGanga' project (solar panels in Indian schools).
+Our expansion strategy reaches the US, UK, Europe, and Africa.
+Our social arm, The Geostrata Foundation, planted 500 trees across Africa on World Environment Day 2023.
+Impact: We reach approximately 1 million people each month.
+
+--------------------------------------------------
+
+Title: The Blue Shirt Society: Fascism, Nationalism and Authoritarianism in Republican China
+URL: https://www.thegeostrata.com/post/the-blue-shirt-society-fascism-nationalism-and-authoritarianism-in-republican-china
+Date: Jan 3, 2026
+Author: Shriyanshu Satyam, Team Geostrata
+Source: The Geostrata
+Content:
+The Blue Shirt Regiment (BSS), also known as the Blue Shirts Society, was a nationalist paramilitary organisation in China. It emerged on March 1, 1932, as a faction within the Kuomintang (KMT). The BSS was composed mainly of graduates from the Whampoa Military Academy who pledged unquestioned loyalty to Chiang Kai-shek.
+
+IDEOLOGICAL FOUNDATIONS
+The group was founded to promote ultranationalism and uphold the ideological principles established by Sun Yat-sen, notably the Three Principles of the People. The Blue Shirts gained significant influence over military, political, and economic spheres during external threats from Japan and internal conflicts with the Chinese Communist Party (CCP).
+
+WAS IT FASCIST?
+Scholars debate this. Zarrow argues they adopted the term "fuhrer" for Chiang and admired European fascism. Others contend they were not a mass fascist party but rather a bureaucratic authoritarian movement infiltrating state institutions like police and education.
+
+DECLINE
+By late 1936, the anti-Japanese tendency within the Blue Shirts gained predominance over the anti-Communist one. The BSS was formally dissolved in March 1938 under pressure from the Second United Front, though its legacy endured in the "Three People’s Principle Youth Corps."
+
+LEGACY
+The Blue Shirts played a significant role in the political landscape of early 20th-century China. They exemplify the intersection of military engagement and political ideology within the KMT, contributing to the defence of the Republic of China during a tumultuous era.
+
+--------------------------------------------------
+
+Title: Navigating the Indo-Pacific Question: Potentials For QUAD-ASEAN Alignment
+URL: https://www.thegeostrata.com/post/navigating-the-indo-pacific-question-potentials-for-quad-asean-alignment
+Date: Jan 2, 2026
+Author: Anshika Malik and Siti Zulaikha, Team Geostrata
+Source: The Geostrata
+Content:
+The QUAD (US, India, Australia, Japan) strives for a free and rules-based Indo-Pacific. ASEAN aims for consensus-building and mutual interests. Despite differences, both share mutual interests in regional security.
+
+MUTUAL INTERESTS
+1. Economic Resilience: Supply chain vulnerabilities during COVID-19 highlighted the need for secure supply chains.
+2. Climate Change: Both regions face rising sea levels and need to collaborate on green transitions.
+3. Multipolarity: Both vouch for multipolarity to counter China’s unfair influence.
+4. Soft Power: Education and cultural ties.
+
+CHALLENGES
+QUAD focuses on security and countering China, while ASEAN prioritizes non-alignment and economic integration. China is the fourth largest source of FDI for ASEAN, creating a strategic divide. China views QUAD as an alarm, complicating alignment.
+
+RECOMMENDATIONS
+QUAD should focus on non-confrontational engagement like infrastructure and sustainable development. Establishing an annual high-level QUAD-ASEAN Forum could facilitate policy coordination. QUAD should adopt a "variable geometry" approach, partnering with key nations like Indonesia and Vietnam bilaterally to create a ripple effect.
+
+--------------------------------------------------
+
+Title: Bangladesh-Pakistan Reset and India’s Strategic Challenges
+URL: https://www.thegeostrata.com/post/bangladesh-pakistan-reset-and-india-s-strategic-challenges-how-post-hasina-bangladesh-is-reshaping
+Date: Dec 29, 2025
+Author: Garima Arora, Team Geostrata
+Source: The Geostrata
+Content:
+Following the ousting of Sheikh Hasina in August 2024, Bangladesh and Pakistan have reset ties. Under Muhammad Yunus, trade surged by 27%, direct flights resumed, and defense ties are booming (including naval exercises and potential missile purchases).
+
+INDIA'S SECURITY DILEMMA
+The fall of Hasina’s government poses four problems for India:
+1. Revival of Northeastern Insurgencies: Bangladesh could facilitate cross-border movement of militants or insurgents in Assam/Manipur.
+2. Siliguri Corridor Risk: Yunus has called India's northeast "landlocked" and there are reports of reviving the Lalmonirhat airbase near the Chicken's Neck.
+3. Radicalisation: A surge in Islamic radicalisation and ISI presence in Dhaka could turn Bangladesh into a terror launchpad.
+4. Maritime Risks: Pakistan Navy ships visiting Bangladesh signals a return to the Bay of Bengal, challenging India's dominance.
+
+THE CHINA FACTOR
+A China-Bangladesh-Pakistan convergence is emerging. Bangladesh’s China policy under Yunus is shifting from hedging to alignment. This trilateral convergence aggravates India’s concerns of strategic encirclement on three fronts.
+
+--------------------------------------------------
+
+Title: Balancing Acts: India’s Multi-Vector Diplomacy in 2025
+URL: https://www.thegeostrata.com/post/balancing-acts-india-s-multi-vector-diplomacy-in-2025
+Date: Dec 21, 2025
+Author: Poshika Mukku, Team Geostrata
+Source: The Geostrata
+Content:
+India’s foreign policy in 2025 reflects strategic autonomy, balancing ties with the US, China, and Russia while leading the Global South.
+
+KEY RELATIONSHIPS
+1. United States: Cornerstone of diplomacy but faces friction on trade and India's Russia ties. Cooperation continues in defense (Quad) and tech (NASA-ISRO).
+2. China: Fragile stage characterized by competition. Post-Galwan reset included direct Modi-Xi interactions, but security issues along the Himalayas remain. Policy is defined by "mutual respect, mutual sensitivity, and mutual interests."
+3. Russia: Strategic depth remains. Russia is the largest defense supplier (S-400s, BrahMos). Trade in national currencies protects the alliance from Western sanctions.
+4. South Asia: "Neighbourhood First" policy balances assertiveness with cooperation through BIMSTEC and SAARC.
+
+GLOBAL POSITION
+India is moving from a rule-taker to a rule-maker, advocating for the African Union's G20 membership and leading the International Solar Alliance.
+
+--------------------------------------------------
+
+Title: One Nation, One Election: A Democratic Reform Through the Eyes of Young India
+URL: https://www.thegeostrata.com/post/one-nation-one-election-a-democratic-reform-through-the-eyes-of-young-india
+Date: Dec 15, 2025
+Author: Vishesh Chaudhary, Team Geostrata
+Source: The Geostrata
+Content:
+The proposal for One Nation One Election (ONOE) proposes simultaneous elections to Lok Sabha and State Assemblies. For a country where 65% of the population is under 35, this is a generational debate.
+
+ARGUMENTS FOR ONOE
+1. Governance Stability: India is in permanent election mode. The Model Code of Conduct disrupts policymaking. ONOE allows focusing on long-term governance.
+2. Youth Engagement: Young voters prefer governance outcomes over perpetual political rhetoric.
+3. History: Simultaneous elections were the norm in 1952, 1957, and 1962. Discontinuation was due to instability, not design.
+
+ADDRESSING CONCERNS
+Critics fear reduced accountability or federalism dilution. However, accountability exists beyond the ballot (media, courts). ONOE does not dilute federalism as states retain legislative powers. It may encourage issue-based voting rather than fragmented campaigning.
+
+--------------------------------------------------
+
+Title: Integrating Ancient Wisdom into Modern Military: Indigenous Military Vocabulary
+URL: https://www.thegeostrata.com/post/integrating-ancient-wisdom-into-modern-military-indigenous-military-vocabulary
+Date: Dec 8, 2025
+Author: Deepika Gupta, Team Geostrata
+Source: The Geostrata
+Content:
+India is rediscovering its strategic roots through "Project Udbhav," launched by Defence Minister Rajnath Singh to synthesise ancient wisdom with modern military pedagogy.
+
+HISTORICAL EXAMPLES
+1. Ahom Dynasty: Defeated the Mughals at the Battle of Saraighat (1671) using psychological warfare, guerrilla tactics, and riverine diplomacy.
+2. Chola Dynasty: Pioneers of naval warfare. They established a robust trade network and coastal defense system, using diplomacy with China and the Abbasid Caliphate to control the Indian Ocean.
+3. Kautilya's Arthashastra: A timeless text on statecraft advising the use of spies, covert operations, and economy-security integration.
+
+RELEVANCE
+Reviving this indigenous knowledge system helps tackle the colonial hangover and provides holistic approaches to modern security challenges.
+
+--------------------------------------------------
+
+Title: Politics of the Taliban: Afghanistan-Pakistan Conflict Through a Feminist Lens
+URL: https://www.thegeostrata.com/post/the-politics-of-the-taliban-afghanistan-pakistan-conflict-through-a-feminist-lens
+Date: Nov 24, 2025
+Author: Sauhardi Uniyal, Team Geostrata
+Source: The Geostrata
+Content:
+The Taliban's rise in August 2021 reinstated one of the most oppressive gender regimes in history.
+
+HISTORICAL CONTEXT: PAKISTAN'S INSTRUMENTALISATION
+Pakistan's ISI nurtured the Taliban for "strategic depth" against India, providing training and funding. Post-9/11, Pakistan played a double game, receiving US aid while empowering the Taliban.
+Blowback: The Tehreek-e-Taliban Pakistan (TTP) has revived, increasing attacks in Pakistan by 79% in 2023. Pakistan has responded with airstrikes on Afghan soil, killing civilians.
+
+FEMINIST CRITIQUE: GENDER APARTHEID
+The Taliban regime practices "gender apartheid," banning women from education, work, and public life. This is not just patriarchy but ideological misogyny. Before Taliban rule, women were 50% of university students and 40% of doctors in Kabul.
+Geopolitical Intersection: Women are collateral damage. Pakistan's military support for the Taliban ignored gender consequences.
+
+CONCLUSION
+The international community's cultural relativism enabled this oppression. A feminist foreign policy is needed, supporting underground education and women's agency.
+
+--------------------------------------------------
+
+Title: The Economics of Hunger: Food, Waste, Climate and the Collapse of Aid
+URL: https://www.thegeostrata.com/post/the-economics-of-hunger-food-waste-climate-and-the-collapse-of-aid
+Date: Nov 12, 2025
+Author: Muskan Gupta, Team Geostrata
+Source: The Geostrata
+Content:
+Despite producing enough food for everyone, 295 million people face acute hunger. This is a failure of systems, funding, and waste.
+
+THE CRISIS
+1. Funding Collapse: The 2024 humanitarian funding gap is $24.2 billion. WFP has cut rations in Yemen, South Sudan, and Burkina Faso.
+2. Climate Catastrophe: Rising temperatures reduce yields (maize down 24%). Extreme weather destroys harvests.
+3. Food Waste: 1/3 of all food produced (1 billion tonnes) is wasted, costing $1 trillion annually and contributing 8-10% of greenhouse gases.
+
+SOLUTIONS
+Rethink funding models (predictable financing), invest in climate-resilient agriculture, and mandate food rescue/waste reduction (SDG 12.3).
+
+--------------------------------------------------
+
+Title: Critical Minerals: What are They? And Why Do They Matter?
+URL: https://www.thegeostrata.com/post/critical-minerals-what-are-they-why-do-they-matter
+Date: Oct 17, 2025
+Author: Aditi Choudhary, Team Geostrata
+Source: The Geostrata
+Content:
+Critical minerals (Lithium, Cobalt, Nickel, Rare Earths) power the 4th Industrial Revolution and Green Transition.
+
+IMPORTANCE
+Used in EVs, wind turbines, robotics, and defense. Demand for lithium will grow 5-fold by 2040.
+
+GEOPOLITICS
+China controls 40% of global refining for copper/lithium and 90% for rare earths. Indonesia controls 43% of Nickel refining.
+This concentration risks supply chains. The US-led Mineral Security Partnership (MSP) aims to diversify supply. India has launched a national mission identifying 30 critical minerals and conducting deep ocean exploration (Samudrayaan).
+
+--------------------------------------------------
+
+Title: Decoding Defence Procurement Manual 2025 - A Report
+URL: https://www.thegeostrata.com/post/decoding-defence-procurement-manual-2025-a-report
+Date: Jan 8, 2026
+Author: Aryaman Singh and Tanuka Das, Team Geostrata
+Source: The Geostrata
+Content:
+The DPM 2025 governs Rs. 1 Lakh Crore of annual revenue procurement (spares, repairs, maintenance). It replaces DPM 2009.
+
+KEY CHANGES
+1. Focus on Revenue Procurement: Shifts focus from just buying assets (Capital Acquisition) to maintaining readiness (Revenue Procurement).
+2. Indigenisation: Opens procurement to MSMEs and private industry, moving away from state-only players.
+3. Efficiency: Integrates Volume I (rules) and Volume II (templates) to speed up decisions.
+
+IMPACT
+Improves demand predictability for the Indian industry and integrates them into the defense ecosystem.
+
+--------------------------------------------------
+
+Title: Syria's New Government: Can a Former U.S. Wanted Insurgent Rebuild a Nation?
+URL: https://www.thegeostrata.com/post/syria-s-new-government-can-a-former-u-s-wanted-insurgent-rebuild-a-nation
+Date: Dec 25, 2025
+Author: Muskan Gupta, Team Geostrata
+Source: The Geostrata
+Content:
+In Dec 2024, rebels removed Bashar al-Assad. Ahmed al-Sharaa (formerly of HTS) became transitional president.
+
+CHANGES
+1. Governance: A technocrat cabinet of 23 ministers appointed in March 2025.
+2. Global Relations: The UN, US, and UK lifted sanctions on al-Sharaa, re-establishing diplomatic ties. Gulf monarchies are resetting relations.
+3. Challenges: Sectarian violence persists. The success depends on inclusive governance and reconstruction.
+
+--------------------------------------------------
